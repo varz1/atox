@@ -1,4 +1,4 @@
-module atox
+module github.com/varz1/atox
 
 go 1.19
 
